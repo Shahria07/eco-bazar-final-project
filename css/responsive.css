@@ -1,0 +1,268 @@
+@media(max-width: 767px){
+    .bannerSlide h2 {
+        font-size: 50px;
+    }
+    .bannerSlide h3 {
+        font-size: 24px;
+        
+    }
+    .bannerSlide h2 {
+        padding: 8px 0 12px;
+    }
+    .bannerSlide p {
+        padding: 12px 0 14px;
+    }
+
+
+    .bannerSlider .slider-dots{
+        display: none !important;
+    }
+    .btn {
+        padding: 16px 25px;
+    }
+    #banner .leftArrow, 
+     #banner .rightArrow{
+        display: none !important;
+    }
+    
+    #cardSection .cardCnt {
+        margin: 10px 0 0;
+    }
+    #cardSection .cardCnt img {
+        width: fit-content;
+        transform: translateX(150px);
+    }
+    .heading h2 {
+        font-size: 20px;
+    }
+
+    #storeCnt h3 {
+        font-size: 23px;
+        padding-top: 32px;
+    }
+
+    #catalogBanner {
+        padding: 48px 0;
+       
+    }
+    #storeCnt p {
+        font-size: 9px;
+    }
+    #storeCnt .foodMenu h4 {
+        font-size: 13px;
+        padding-bottom: 5px;
+    }
+    .btn {
+        padding: 11px 11px;
+    }
+    #storeCnt a {
+        font-size: 13px;
+    }
+    #userMenu .userCnt {
+        padding: 27px 0;
+        
+    }
+    #salesBanner img {
+        padding-bottom: 15px;
+    }
+    #salesBanner {
+        padding: 21px 0;
+    }
+    #Featured {
+        padding: 1px 0;
+    }
+    #hotDeals .dealCard {
+        margin: 0 0 6px;
+      
+    }
+    #hotDeals {
+        padding: 0 0 10px;
+    }
+    
+   
+    #addressMenu .AddressCnt button {
+        padding: 12px 22px;
+    }
+
+    #addressMenu .AddressCnt input {
+        font-size: 13px;
+        padding: 12px 0 12px 6px;
+        width: 50%;
+    }
+    #customerChart {
+        padding: 8px 0;
+    }
+    #footerMenu .container .lastFooter {
+        margin-top: 6px;
+    }
+    #footerMenu .appStore a {
+        padding: 0 13px 0 13px;
+    }
+    #footerMenu p {
+        font-size: 10px;
+        padding: 0px 0;
+    }
+    #customerChart .container h2 {
+        font-size: 25px;
+    }
+    #addressMenu {
+        padding: 0 0 13px;
+    }
+    img, svg {
+    width: 100%;
+}
+#footerMenu h4 {
+    padding-top: 23px;
+}
+#footerMenu p {
+    padding-bottom: 15px;
+}
+#catagoriBanner .bannerCnt ul li a {
+    font-size: 14px;
+}
+#billItem h3 {
+    font-size: 16px;
+    padding: 0px 0 0px;
+}
+#billItem .billCnt p {
+    font-size: 6px;
+}
+#billItem .billCnt {
+    padding: 3px;
+}
+#billItem .billCnt input {
+    padding: 13px 0px;
+}
+#billItem .billCnt input placeholder{
+    font-size: 8px;
+}
+#mailSection .text h4 {
+    font-size: 10px;
+}
+#mailSection .text p {
+    font-size: 4px;
+}
+#mailSection .mailCnt input {
+    border-radius: 50px;
+    height: 31px;
+    font-weight: 400;
+    font-size: 8px;
+    padding: 9px 0 9px 0px;
+    width: 100%;
+    display: inline-block;
+}
+#mailSection .mailCnt button {
+    border-radius: 43px;
+    padding: 12px 32px;
+    margin-left: -19px;
+    font-size: 8px;
+}
+#mailSection .socalCnt a {
+    margin: 0 0px;
+}
+#description .organic h4 {
+    font-size: 8px;
+}
+#description .organic p {
+    font-size: 10px;
+}
+#Featured .headings h2 {
+    font-size: 20px;
+    padding-bottom: 9px;
+}
+#addCart .firstB a {
+    font-size: 7px;
+    padding: 23px 16px;
+   
+}
+#priceSection h2 {
+    font-size: 25px;
+}
+#priceSection a {
+    font-size: 11px;
+}
+#brandSection img {
+    padding-left: 0px;
+    padding-right: 2px;
+}
+#brandSection .socalCnt a {
+    margin: 0 2px;
+}
+#brandSection h5 {
+    font-size: 10px;
+}
+#brandSection p {
+    font-size: 10px;
+    padding: 7px 0;
+}
+#catagoriSection a {
+    font-size: 8px;
+}
+#catagoriSection p {
+    font-size: 8px;
+   
+}
+ #description .commonP p {
+    font-size: 7px;
+   
+}
+#description .good {
+    padding: 4px 0 7px;
+}
+#mailSection {
+    padding-top: 40px;
+}
+#footerMenu {
+    padding-top: 11px;
+}
+#customerChart .customerCard p {
+    font-size: 8px;
+}
+#addressMenu .AddressCnt button {
+    margin-left: -2px;
+}
+#addressMenu .AddressCnt input {
+    font-size: 11px;
+}
+#addressMenu .AddressCnt h4 {
+    font-size: 8px;
+}
+#addressMenu .addressCnt h4 {
+  
+    font-size: 10px;
+    padding: 0px 0 3px;
+}
+#addressMenu p {
+    font-size: 8px;
+}
+#catalogBanner .catalogCard {
+    width: 100%;
+}
+.heading h2 {
+    font-size: 12px;
+}
+#filter p {
+    font-size: 9px;
+}
+#ShopingCart .shopingCnt .rows h6 {
+   
+    font-size: 11px;
+
+}
+#ShopingCart .shopingCnt .rows button {
+    font-size: 11px;
+}
+.subtotals button {
+    font-size: 12px;
+}
+#ShopingCart {
+    padding-bottom: 5px;
+}
+#filter {
+    padding: 2px 0 0px;
+}
+
+
+
+
+}
